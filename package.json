@@ -17,10 +17,10 @@
         "dateformat": "*",
         "mailgun.js": "*",
         "node-telegram-bot-api": "*",
-        "nodemailer": "2.7.2",
+        "nodemailer": "*",
         "nodemailer-sendmail-transport": "*",
         "redis": "*",
-        "socket.io": "^2.1.1",
+        "socket.io": "*",
         "time-ago": "*"
     },
     "engines": {
